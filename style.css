@@ -1,17 +1,11 @@
 body {
   font-family: georgia;
-  
-  .one {
-  list-style: circle;
 }
-  <style>
-.content {
-    max-width: 500px;
-    margin: auto;
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lobster">
+<style>
+.w3-lobster {
+    font-family: "Lobster", serif;
 }
 </style>
-<body>
-
-<div class="content">
-  <!-- Page content -->
-</div>
