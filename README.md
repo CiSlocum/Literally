@@ -1,2 +1,2 @@
 # Literally
-Netlify Lesson
+Netlify Page for Publish
