@@ -1,11 +1,62 @@
 body {
-  font-family: georgia;
+background-color: black;
+  color: #23DBC9;
+  font-family: 'Play', sans-serif;
 }
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lobster">
-<style>
-.w3-lobster {
-    font-family: "Lobster", serif;
+
+a {
+  color: #23DBC9;
 }
-</style>
+
+header {
+  font-family: Lobster, sans-seriff, sans;
+}
+
+header nav {
+  display: flex;
+  justify-content: flex-end;
+}
+
+header p {
+  padding: 20px 20px;
+  margin: 0;
+}
+
+#headerImage {
+    align-self: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+    height: 10%;
+}
+
+section {
+  margin-top: 60px;
+}
+
+div {
+  margin: 10px;
+}
+
+figure {
+  margin-top: 15px;
+}
+
+footer .col-sm-8 {
+  display: flex;
+  justify-content: flex-end;
+}
+
+footer li img {
+  width: 32px;
+  height: 32px;
+}
+
+footer ul {
+  list-style: none;
+}
+
+.jumbotron {
+  background-color: #23DBC9;
+  color: black;
+}
